@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MAL little helper"
-include ':app'
+include(":app")
